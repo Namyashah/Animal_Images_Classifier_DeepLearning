@@ -1,13 +1,7 @@
 ![Plots Screenshot](images/Screenshot%202026-10-12%20125000.png)
-🚀 **[Launch WildLens AI](https://your-app-link.streamlit.app)**
 # 🐾 WildLens AI — Animal Image Classification
 
 > A CNN-powered image classification project that predicts which of **six animal classes** appears in an image.
-
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-CNN-orange?logo=tensorflow)
-![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-ff4b4b?logo=streamlit)
-![Status](https://img.shields.io/badge/Project-Completed-success)
 
 ## 🎯 Problem Statement
 Identifying animal species from images manually can be time-consuming. The goal of this project is to build an image-classification model that automatically predicts an animal category from an uploaded image.
